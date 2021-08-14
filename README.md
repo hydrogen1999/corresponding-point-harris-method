@@ -14,10 +14,6 @@ here is some more information about haris method if you are interested: https://
 
 Results :
 
-![title](./results/res09_corres.jpg)
 
-![title](./results/res10_corres.jpg)
-
-
-![title](./results/res11.jpg)
+![title](./result/res11.jpg)
 
